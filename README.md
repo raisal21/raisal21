@@ -12,7 +12,7 @@ Full-stack engineer in Yogyakarta. I build real-time, data-heavy systems: live d
 
 **Background**
 
-→ D4 Internet Engineering Tech, UGM (GPA 3.79 / 4.00)
+→ Internet Engineering Tech, UGM (GPA 3.79 / 4.00)
 → CCNA, Huawei HCIA (Cloud, AI), MTCNA, IELTS Band 6
 
 **Reach me**

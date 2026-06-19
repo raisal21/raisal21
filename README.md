@@ -47,13 +47,6 @@ The backend for that dashboard. A WebSocket server that broadcasts rig telemetry
 **EyeLog** · Python · OpenCV · PySide6 (Qt) · RTSP · Nuitka
 A computer-vision app that watches industrial camera feeds and measures coverage in real time. Handles three 1080p streams at 25 FPS on one machine with under 0.01% frame loss, around 85% F1 using classical CV (background subtraction plus morphology). Runs fully offline. It started as my thesis; a web version shipped to a client during my internship.
 
-### GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raisal21&show_icons=true&hide_border=true&title_color=b23a2e&icon_color=a4560f&text_color=1c1b19&bg_color=fcfcfb" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisal21&layout=compact&hide_border=true&title_color=b23a2e&text_color=1c1b19&bg_color=fcfcfb" alt="Top languages" />
-</p>
-
 ### Background
 
 Applied bachelor (D4) in Internet Engineering Technology, Universitas Gadjah Mada. GPA 3.79 / 4.00.
